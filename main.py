@@ -1,7 +1,8 @@
 #Guangwei Chen, Shuheng Lin
 #gc535, sl2954
-#This program test the calibrated servo by rotating them in both
-#directions.  
+#This program will sort 4 different US coins:
+# quarter, dime, nickle, penny
+#tag: OpenCV, RPi, Pygame
 ################################################################
 from picamera.array import PiRGBArray
 from picamera import PiCamera
